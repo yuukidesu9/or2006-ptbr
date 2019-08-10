@@ -1,2 +1,3 @@
-# or2006-ptbr - "OutRun 2006: Costa a Costa"
-The GitHub repo for the Portuguese translation for OutRun 2006: Coast 2 Coast.
+# OR2006-PTBR - "OutRun 2006: Costa a Costa"
+Este é o repositório do GitHub para o projeto de tradução de OutRun 2006: Coast 2 Coast para a língua portuguesa.
+A pasta 'Text' contém os assets de texto do jogo, enquanto que 'Graphics'
